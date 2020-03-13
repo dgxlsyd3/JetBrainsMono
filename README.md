@@ -4,6 +4,8 @@
 A typeface made for developers. \
 More about font features & design can be found on [its page](https://jetbrains.com/mono/).
 
+# This fork is no longer maintained. "No ligatures" font variation was released officially: [1.0.4](https://github.com/JetBrains/JetBrainsMono/releases/tag/v1.0.4).
+
 # **Installation**
 
 ### **In JetBrains IDEs**
